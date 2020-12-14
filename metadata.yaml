@@ -1,10 +1,13 @@
 _repo: Gamle-Minder-fra-tjeneste-aarene-ombord-i-franske-skibe-1823-1829-Nedskrevet-i-1877_63908
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Cato, Chr. J.‏
     gutenberg_agent_id: '52658'
     url: http://www.gutenberg.org/2009/agents/52658
+covers:
+- cover_type: archival
+  image_path: 63908-h/images/cover.jpg
 creator:
   author:
     agent_name: Dockum, C. van
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52657
     wikipedia: https://da.wikipedia.org/wiki/Carl_van_Dockum
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63908#Gamle-Minder-fra-tjeneste-aarene-ombord-i-franske-skibe-1823-1829-Nedskrevet-i-1877
 gutenberg_issued: '2020-11-28'
 gutenberg_type: Text
 identifiers:
